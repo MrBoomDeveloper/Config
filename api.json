@@ -1,1 +1,8 @@
-
+{
+  "maintance": false,
+  "domain": "https://api.mrboomdev.ru",
+  "errorMessage": {
+    "default": "Something went wrong with the servers. Check MrBoomDev's social networks, suddenly there is a written reason for the problem.",
+    "maintance": "Our servers are on a technical break"
+  }
+}
